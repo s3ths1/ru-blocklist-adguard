@@ -1,4 +1,0 @@
-! Title: Custom blocklist
-||ru^
-||xn--p1ai^
-||giga.chat^
