@@ -5,7 +5,7 @@
 
 Подписка: Filters → DNS blocklists → Add a blocklist → Add a custom list
 
-    https://raw.githubusercontent.com/theseriff/ru-blocklist-adguard/main/ru-blocklist-adguard.txt
+    https://raw.githubusercontent.com/s3ths1/ru-blocklist-adguard/main/ru-blocklist-adguard.txt
 
 Правила вида `||domain^` блокируют домен и все его поддомены.
 Исключения (например, зеркала пакетов) добавляй в Custom filtering rules: `@@||mirror.yandex.ru^`.
